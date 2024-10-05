@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+kalshi_python==2.0.0
+matplotlib==3.9.2
+numpy==2.1.2
+pandas==2.2.3
+python_dateutil==2.9.0
+python_dateutil==2.9.0.post0
+Requests==2.32.3
+scikit_learn==1.5.2
+tensorflow==2.17.0
+urllib3==2.2.3
